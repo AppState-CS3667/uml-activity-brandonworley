@@ -1,0 +1,8 @@
+1. Shopper
+2. Employee
+3. Verb
+4. Noun
+5. Primary actors are not secondary because they initiate change and are on the left
+6. Secondary actors are not primary because they react to change and are on the right
+7. Because the ID may be needed to scan items in some cases
+8. Because a cart needs items for items to be scanned
