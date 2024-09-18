@@ -8,4 +8,4 @@
 8. Because a cart needs items for items to be scanned
 9 .Test2
 10 .Test
-11. test3
+11. test
