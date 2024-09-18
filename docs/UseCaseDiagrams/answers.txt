@@ -6,6 +6,3 @@
 6. Secondary actors are not primary because they react to change and are on the right
 7. Because the ID may be needed to scan items in some cases
 8. Because a cart needs items for items to be scanned
-9 .Test2
-10 .Test
-11. test
